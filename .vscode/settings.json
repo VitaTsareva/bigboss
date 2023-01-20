@@ -14,7 +14,8 @@
         "internalPort": 52773
       },
       "links": {
-        "UnitTest Portal": "${serverUrl}/csp/sys/%25UnitTest.Portal.Home.cls?$NAMESPACE=IRISAPP"
+        "UnitTest Portal": "${serverUrl}/csp/sys/%25UnitTest.Portal.Home.cls?$NAMESPACE=IRISAPP",
+        "WebTerminal": "${serverUrl}/terminal/"
       }
     },
     "workbench.colorTheme": "InterSystems Default Dark"
