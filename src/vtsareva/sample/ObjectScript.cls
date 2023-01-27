@@ -1,4 +1,4 @@
-Class dc.sample.ObjectScript
+Class vtsareva.sample.ObjectScript
 {
 
 ClassMethod Test() As %Status
